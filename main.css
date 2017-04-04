@@ -11,12 +11,11 @@ border-color: #009ad5; }
 background-color: #b62f26;
 border-color: #b62f26; 
 }
-.background: { 
+.jumbotron{ 
 	min-height: 600px;
 	background-image:url('images/food.jpg');
 	background-size:cover;
 	background-attachment: fixed; 
-
 
 }
 
@@ -55,8 +54,12 @@ border-color: #b62f26;
 form {
       text-align:center; 
       vertical-align: middle;
+<<<<<<< HEAD
       
 
+=======
+      margin: auto;
+>>>>>>> parent of 7c9d77c... dwww
 
 
 
