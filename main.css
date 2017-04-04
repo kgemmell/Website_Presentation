@@ -28,5 +28,7 @@ border-color: #b62f26;
 
 
 }
-.end
-{text-align: center; }
+.end {
+	text-align: center;
+    margin:auto;
+}
