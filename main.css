@@ -21,6 +21,8 @@ border-color: #b62f26;
 
 .heading {
 text-align:center;
+margin: auto;
+display: block;
 
 
 }
