@@ -30,7 +30,10 @@ border-color: #b62f26;
 }
 .end {
 	text-align: center;
-    margin:auto;
+    margin-top:50px ;
+    margin-right:auto;
+    margin-left:auto;
+
 }
 
 .tomato{
