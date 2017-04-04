@@ -36,8 +36,7 @@ border-color: #b62f26;
 .end {
 	text-align:center;
     margin-top:100px ;
-    margin-right:auto;
-    margin-left:auto;
+    margin: auto;
     vertical-align: middle;
 
 }
