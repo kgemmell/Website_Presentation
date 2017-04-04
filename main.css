@@ -22,7 +22,15 @@ border-color: #b62f26;
 .container {
 	top-margin: 10px;
 	color: #990033;
+
 }
+
+
+.navbar-header {
+color: #990033;
+
+}
+
 
 .heading {
 text-align:center;
