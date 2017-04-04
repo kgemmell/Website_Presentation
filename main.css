@@ -20,7 +20,7 @@ border-color: #b62f26;
 }
 #What do meals on wheels customers think of us?{
 	background-color: rgba(32,35,41,0.9);
-	color: #ddd;
+	color: #df80ff;
 }
 .class1 img{
    height: 250px;
@@ -29,8 +29,8 @@ border-color: #b62f26;
 
 }
 .end {
-	text-align: center;
-    margin-top:300px ;
+	text-align:center;
+    margin-top:200px ;
     margin-right:auto;
     margin-left:auto;
 
