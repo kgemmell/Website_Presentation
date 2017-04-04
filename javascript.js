@@ -1,8 +1,4 @@
 
 $(document).ready(function(){
-    $("p").click(function(){
-        $(this).hide();
+    alert("Get £10 Your First Delivery!");
     });
-});
-
-
