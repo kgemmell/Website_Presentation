@@ -55,7 +55,7 @@ display: block;
 	height: 100px;
 	width:auto;
 	margin-right:auto;
-	margin-left:;
+	margin-left:auto;
 
 
 }
@@ -76,10 +76,11 @@ h1 {
 	color:#990033 ;
 	background-color: white;
 
+
 }
 
 .row {
-margin-left: 50%;
+padding-left: 50%;
 display: block;
 
 
