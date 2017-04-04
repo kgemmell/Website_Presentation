@@ -16,6 +16,8 @@ border-color: #b62f26;
 	background-image:url('images/food.jpg');
 	background-size:cover;
 	background-attachment: fixed ; 
+	position: relative;
+      
 
 
 }
@@ -55,7 +57,11 @@ form {
       text-align:center; 
       vertical-align: middle;
       margin: auto;
-      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+
 
 	
 
