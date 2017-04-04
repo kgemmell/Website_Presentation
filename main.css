@@ -13,7 +13,7 @@ border-color: #b62f26;
 }
 .jumbotron{ 
 	min-height: 600px;
-	background-image:url('images/smorgasborg.jpg');
+	background-image:url('images/food.jpg');
 	background-size:cover;
 	background-attachment: fixed ; 
 
