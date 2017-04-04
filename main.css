@@ -36,8 +36,8 @@ border-color: #b62f26;
 .end {
 	text-align:center;
     margin-top:100px ;
-    margin: auto;
-    vertical-align: middle;
+    margin-right:auto;
+    margin-left:auto;
 
 }
 
@@ -45,14 +45,16 @@ border-color: #b62f26;
 	height: 100px;
 	width:auto;
 	margin-right:auto;
-	margin-left:auto;
+	margin-left:;
 
 }
 
 
 form {
       text-align:center; 
+      vertical-align: middle;
+      margin: auto;
 
 
-}
+
 }
